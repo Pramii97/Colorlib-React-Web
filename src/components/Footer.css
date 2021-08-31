@@ -1,0 +1,112 @@
+.footer{
+    margin-top: 10%;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    color: #fff;
+    background-color: #000;
+}
+
+.elments{
+    padding: 10% 15%;
+}
+
+.questions{
+    float: left;
+    width: 30%;
+    padding-right: 5%;
+}
+.questions ul li{
+    float: left;
+    list-style: none;
+    line-height: 2.5em;
+}
+.details{
+    padding: 0%;
+}
+
+.recent-blogs{
+    float: left;
+    width: 25%;
+    padding-right: 5%;
+}
+.links{
+    float: left;
+    width: 20%;
+    padding-right: 5%;
+}
+
+.subscribe{
+    float: left;
+    width: 25%;
+}
+
+.email{
+    padding: 5%;
+    background-color: rgb(208, 210, 224);
+}
+
+.subscribe-btn{
+    margin-top: 20px;
+    width: 70%;
+    text-align: center;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: blue; 
+    margin-bottom: 10%;
+}
+
+.footerlink{
+    width: 70%;
+    line-height: 0.6em;
+    list-style: none;
+    float: left;
+    padding-left: 0%;
+
+}
+.twitter{
+    float: left;
+    margin-right: 10px;
+    padding-right: 10%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    background-color:rgb(56, 53, 53);
+    width: 10%;
+    border-radius: 40%;
+    color: #49a1eb;
+}
+.fb{
+    float: left;
+    margin-right: 10px;
+    padding-right: 10%;
+    padding-left: 5%; 
+    padding-bottom: 2%;
+    background-color: rgb(56, 53, 53);
+    width: 10%; 
+    border-radius: 40%;      
+    color: #1255e7;
+}
+
+.insta{
+    float: left;
+    padding-right: 10%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    background-color: rgb(56, 53, 53);;
+    width: 10%;
+    border-radius: 40%;
+    color: #eb60cd;
+}
+
+.twitter:hover{
+    cursor: pointer;
+    background-color: rgb(21, 21, 27);
+}
+.fb:hover{
+    cursor: pointer;
+    background-color: rgb(21, 21, 27);
+}
+.insta:hover{
+    cursor: pointer;
+    background-color: rgb(21, 21, 27);
+}
